@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1, 
+        "name":"Coffee",
+        "price": 10.30,
+        "imgURL": "/imgs/coffee.jpg"
+    },
+    {
+        "id": 1, 
+        "name":"Headphones",
+        "price": 58.05,
+        "imgURL": "/imgs/book2.jpg"
+    },
+    {
+        "id": 1, 
+        "name":"Book (Cat language) ",
+        "price": 34.52,
+        "imgURL": "/imgs/book3.jpg"
+    },
+    {
+        "id": 1, 
+        "name":"Bookmark",
+        "price": 7.52,
+        "imgURL": "/imgs/book4.jpg"
+    }
+]
